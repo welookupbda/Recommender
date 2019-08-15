@@ -1,3 +1,5 @@
+# Written by Sai Krishnan Mohan
+
 setwd("/home/sai/Downloads/Retail_Data")
 
 #Read in the file
